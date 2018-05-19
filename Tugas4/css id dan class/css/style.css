@@ -1,0 +1,30 @@
+.container{
+	background-color: green;
+	width: 960px;
+	margin: 0 auto;
+}
+h1{
+	color: white;
+}
+h2{
+	text-align: center;
+}
+.perataan{
+	display: flex;
+}
+.box-3{
+	text-align: justify;
+	width: 315px;
+	border: 1px solid green;
+	background-color: white;
+	margin: 5px;
+	padding: 5px;
+}
+.box-2{
+	width: 475px;
+	height: 300px;
+	border: 1px solid green;
+	background-color: #fff;
+	margin: 5px;
+	padding: 10px;
+}
